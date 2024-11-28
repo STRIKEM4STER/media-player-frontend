@@ -1,0 +1,1 @@
+export const serverUrl = 'https://media-player-xye1.onrender.com'
